@@ -1,3 +1,10 @@
+/*
+  Maratona de Programação oferecida ao Colégio Bonja em novembro de 2023.
+  Exercícios + Gabarito
+
+  (c) Eduardo Cortez, 2023. Licença CC BY 4.0
+*/
+
 import Foundation
 
 /*
